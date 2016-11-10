@@ -1,0 +1,34 @@
+/*
+ * Secciones del Sistio
+
+ */
+
+.home{
+	background: #FFFFFF url('../assets/bg.jpg') no-repeat center center fixed;
+	/*background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;*/
+	
+	text-align: center;
+	color: #FFFFFF;
+	padding-top: 20%;
+}
+
+
+.full-height{
+	height:100%;
+	padding: 10% 0;
+}
+
+.single{
+	margin: 130px 0;
+}
+
+.info{
+	background-color: #eaeff5;
+	color: #888d9b;
+	padding: 20px;
+	font-size: 10px;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
